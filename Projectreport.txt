@@ -1,0 +1,8 @@
+Mason # available: 3
+3 Extra mason needed
+Mason # available: 3
+3 Extra mason needed
+Labour # available: 6
+2 Labour req for the project
+Mixer # available: 2
+2 Mixer req for the project
